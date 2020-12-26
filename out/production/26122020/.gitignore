@@ -1,0 +1,8 @@
+target/
+output/
+release/
+debug/
+*.log
+* .lml
+out/
+.idea
